@@ -13,7 +13,7 @@ def alternates(array):
     return alter
 
 arr= [10, 20, 30, 40, 50]
-print(alternates(arr))
+print(alternates(arr)) #func call to print alternate elements
 
 arr = [10, 20, 30, 40, 50]  # ARRAY OF ELEMENTS
 
